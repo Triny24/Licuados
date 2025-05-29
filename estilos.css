@@ -1,0 +1,37 @@
+h1{color:#FFC300}
+p{
+  color:#ff5733;
+  font-size: 30px
+ }
+ h2{ color:#C70039}
+h3{color:#900C3F}
+nav{display:"block"}
+body{font-family: cursive´,sans-serif;
+  background-color:#cefcda;
+  color:#900C3F;
+}
+header, footer{background-color:#569b57;
+ color:white;
+padding:20px;
+text-align:center;
+ }
+nav,  {list-style-type:none;
+  background-color:#569b57;
+  padding: 10px;
+  display:flex;
+  justify-content: center;
+ }
+nav, ul, li{
+  margin: 10px
+}
+nav ul li a {color: white;
+text-decoration: line-through;
+}
+section{padding: inherit;}
+nav{background-color:#569b57;
+padding: 20px;
+display: flex;
+justify-content: center;
+border-bottom: 0px solid #1abc9c;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
